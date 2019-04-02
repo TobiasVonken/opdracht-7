@@ -1,0 +1,27 @@
+﻿<Window x:Class="opdracht_7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:opdracht_7"
+        mc:Ignorable="d"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}"
+        d:DataContext="{d:DesignInstance local:MainWindow}"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <StackPanel Orientation="Vertical" >
+            <TextBlock Text="Naam:" Margin="0,5,0,0"/>
+            <TextBox Text="{Binding NewCarOwner.Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBlock Text="Leeftijd" Margin="0,10,0,0"/>
+            <TextBox Text="{Binding NewCarOwner.Age, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+            <DockPanel>
+                <TextBlock Text="Automerk" />
+                <TextBox Width="400" Margin="20,5,0,5" DockPanel.Dock="Left" Text="{Binding CarBrand, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                <Button Content="Toevoegen" Width="100" Margin="0,5,0,5" DockPanel.Dock="Left" Click="BtnAddCar_Click"/>
+            </DockPanel>
+            <ListView DockPanel.Dock="Top" Margin="0,0,0,0" Height="280" ItemsSource="{Binding NewCarOwner.Cars, Mode=TwoWay}">
+            </ListView>
+            <Button Content="Volgende" Click="BtnNext_Click"/>
+        </StackPanel>
+    </DockPanel>
+</Window>

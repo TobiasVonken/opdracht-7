@@ -1,0 +1,21 @@
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\bin\Debug\opdracht 7.exe.config
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\bin\Debug\opdracht 7.exe
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\bin\Debug\opdracht 7.pdb
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\opdracht 7.csprojAssemblyReference.cache
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\MainWindow.g.cs
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\ResultWindow.g.cs
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\App.g.cs
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\opdracht 7_MarkupCompile.cache
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\opdracht 7_MarkupCompile.lref
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\MainWindow.baml
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\ResultWindow.baml
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\opdracht 7.g.resources
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\opdracht_7.Properties.Resources.resources
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\opdracht 7.csproj.GenerateResource.cache
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\opdracht 7.csproj.CoreCompileInputs.cache
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\opdracht 7.exe
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\opdracht 7.pdb
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\bin\Debug\Newtonsoft.Json.dll
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\bin\Debug\Newtonsoft.Json.pdb
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\bin\Debug\Newtonsoft.Json.xml
+D:\school bestanden\leerjaar 2\periode 3\prg\week 6\opdracht 7\opdracht 7\obj\Debug\opdracht 7.csproj.CopyComplete
